@@ -1,0 +1,22 @@
+{
+  "name": "mofotemplate",
+  "version": "1.0.0",
+  "description": "templates for a yeoman generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tombo/mofotemplate.git"
+  },
+  "keywords": [
+    "yeoman"
+  ],
+  "author": "tombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tombo/mofotemplate/issues"
+  },
+  "homepage": "https://github.com/tombo/mofotemplate#readme"
+}
